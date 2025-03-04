@@ -2,7 +2,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-      I'm Anıl. I am an Operations Specialist and a Junior Developer.
+      I'm Anıl. I am an Operations Specialist and a Backend Developer.
 </p>
 
 <p align="center">
